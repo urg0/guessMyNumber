@@ -2,13 +2,13 @@
 <a name="readme-top"></a>
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="https://github.com/urg0/bmi-calculator/assets/81859377/7214abb0-6fc5-45c8-8f73-df92fbb01e97" alt="Logo" width="80" height="80">
+    <a href="https://github.com/urg0/guessMyNumber">
+
 
 
   </a>
 
-<h3 align="center">bmi-calculator</h3>
+<h3 align="center">guessMyNumber</h3>
 
   <p align="center">
 A game to find the randomly chosen number between 0-20. Developed with vanilla JavaScript.
